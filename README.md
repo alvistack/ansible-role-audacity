@@ -1,13 +1,9 @@
 # Ansible Role for Audacity
 
-[![Gitlab pipeline
-status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-audacity/master)](https://gitlab.com/alvistack/ansible-role-audacity/-/pipelines)
-[![GitHub
-release](https://img.shields.io/github/release/alvistack/ansible-role-audacity.svg)](https://github.com/alvistack/ansible-role-audacity/releases)
-[![GitHub
-license](https://img.shields.io/github/license/alvistack/ansible-role-audacity.svg)](https://github.com/alvistack/ansible-role-audacity/blob/master/LICENSE)
-[![Ansible
-Role](https://img.shields.io/badge/galaxy-alvistack.audacity-blue.svg)](https://galaxy.ansible.com/alvistack/audacity)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-audacity/master)](https://gitlab.com/alvistack/ansible-role-audacity/-/pipelines)
+[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-audacity.svg)](https://github.com/alvistack/ansible-role-audacity/releases)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-audacity.svg)](https://github.com/alvistack/ansible-role-audacity/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.audacity-blue.svg)](https://galaxy.ansible.com/alvistack/audacity)
 
 Ansible Role for Audacity Installation.
 
@@ -43,8 +39,7 @@ This role could simply deploy to `localhost` as below:
 ## License
 
   - Code released under [Apache License 2.0](LICENSE)
-  - Docs released under [CC BY
-    4.0](http://creativecommons.org/licenses/by/4.0/)
+  - Docs released under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 ## Author Information
 
