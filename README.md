@@ -1,5 +1,7 @@
 # Ansible Role for Audacity
 
+<img src="/alvistack.svg" width="75" alt="AlviStack">
+
 [![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-audacity/master)](https://gitlab.com/alvistack/ansible-role-audacity/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-audacity.svg)](https://github.com/alvistack/ansible-role-audacity/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-audacity.svg)](https://github.com/alvistack/ansible-role-audacity/blob/master/LICENSE)
