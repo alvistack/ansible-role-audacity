@@ -19,7 +19,7 @@
   become: true
   tasks:
     - name: audacity --version
-      command: audacity --version
+      ansible.builtin.command: audacity --version
       register: result
       changed_when: false
       failed_when: "'unable to initialize gtk' not in (result.stderr | lower)"
