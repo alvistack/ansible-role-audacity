@@ -19,9 +19,8 @@
   remote_user: root
   become: true
   tasks:
-    - name: audacity --version
+    - name: flatpak info org.audacityteam.Audacity
       ansible.builtin.command:
-        cmd: audacity --version
+        cmd: flatpak info org.audacityteam.Audacity
       register: result
-      changed_when: false
-      failed_when: "'unable to initialize gtk' not in (result.stderr | lower)"
+      changed_when: result is not succeeded
