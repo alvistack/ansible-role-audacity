@@ -1,4 +1,4 @@
-# Ansible Role for Audacity
+# Ansible Role for Audacity with Flatpak
 
 ## 13.6.0 - TBC
 
